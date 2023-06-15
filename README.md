@@ -1,2 +1,4 @@
-# packer-mirror
-Mirror for Packer
+PACKER-MIRROR
+=============
+
+Mirror for [Packer](https://www.packer.io)
